@@ -10,7 +10,7 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.21.15",
+    "@clerk/nextjs": "^4.29.9",
     "@hookform/resolvers": "^3.1.1",
     "@prisma/client": "^5.0.0",
     "@radix-ui/react-avatar": "^1.0.3",
@@ -33,7 +33,6 @@
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "lucide-react": "^0.259.0",
-    "next": "13.4.9",
     "next-themes": "^0.2.1",
     "openai": "^3.3.0",
     "postcss": "8.4.25",
@@ -53,6 +52,7 @@
     "zustand": "^4.3.9"
   },
   "devDependencies": {
+    "next": "^14.1.2",
     "prisma": "^5.0.0"
   }
 }
