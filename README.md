@@ -25,9 +25,6 @@ Features:
 - How to reuse layouts
 - Folder structure in Next 13 App Router
 
-### Prerequisites
-
-**Node version 18.x.x**
 
 ### Cloning the repository
 
